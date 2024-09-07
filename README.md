@@ -5,7 +5,7 @@
 
 <hr>
 
-  [![Skills](https://skillicons.dev/icons?i=nextjs,react,ts,java,c,python,tailwind,bootstrap,html,css,js,git,sdl&perline=15)](https://skillicons.dev)
+  [![Skills](https://skillicons.dev/icons?i=nextjs,react,ts,java,c,kotlin,python,tailwind,bootstrap,html,css,js,git,sdl&perline=15)](https://skillicons.dev)
 
 
 <hr>
